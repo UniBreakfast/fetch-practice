@@ -1,0 +1,16 @@
+body{
+  font-size: 18px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+table{
+  border-collapse: collapse;
+  display: inline-table;
+}
+th, td {
+  text-align: center;
+  border: 1px solid gray;
+  padding: 5px;
+}
+.main__row{
+  display: flex;
+}
